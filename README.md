@@ -1,5 +1,5 @@
 # AndroidQuizAPP
-Android app whcih takes JSON input consisting of Questions & Answers from an API.
+Android app which takes JSON input consisting of Questions & Answers from an API.
 
 ## Modes
 
