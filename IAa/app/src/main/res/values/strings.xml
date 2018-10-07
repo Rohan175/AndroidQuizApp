@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IAa</string>
+    <string name="question">Question :</string>
+    <string name="answer">Answer :</string>
+    <string name="questiondatapage">QuestionDataPage</string>
+    <string name="answer_data_page">Answer Data Page</string>
+    <string name="title_activity_result_screen">resultScreen</string>
+    <string name="appTitle">Quiz Time</string>
+</resources>
